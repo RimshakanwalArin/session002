@@ -1,0 +1,1 @@
+console.log("right click new click folder click type folder name folder click one other folder create and name  than upper task bar click ang delet and type cnd enter open command promt here type code  . than enter open vs code editer than  click file icon filename type . programming short from ");
